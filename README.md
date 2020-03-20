@@ -1,4 +1,4 @@
-<!doctype html>typo
+
 <html>
   <head>
     <meta charset="UTF-8">
