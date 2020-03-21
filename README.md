@@ -12,7 +12,7 @@
      <p>在一次因緣際會下，我的堂哥向我介紹一個標記語言html</p>
        <p>從此我開始自學網頁製作和程式編輯</p>
       <hr>
-      <h2>Introducing my self in English</h2>
+      <h2>Introducing myself in English</h2>
      <p>  I'm came from a normal family.<br>
     My parents are all commuters, which don't have sufficient computer knowledge. </p>
  <p>My cousin is an engineer,who often teach me how to use a computer.</p>
