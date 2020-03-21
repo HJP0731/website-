@@ -17,8 +17,8 @@
     My parents are all commuters, which don't have sufficient computer knowledge. </p>
  <p>My cousin is an engineer,who often teach me how to use a computer.</p>
      <p>The more I learn computer knowledge, the more passion I have .</p>
-    <p>Hence, I wish I can be admited and enter <br>
-      the department of Information Engineering, National Taiwan University, <br>
-   improving myself and learning more about programing. </p>
+    <p>Hence, I wish I can be admited and   <br>
+be a computer science and imformation engineering student  <br>
+   in order to inprove myself and learning more about programing. </p>
     </body>
   </html>
