@@ -13,7 +13,7 @@
        <p>從此我開始自學網頁製作和程式編輯</p>
       <hr>
       <h2>Introducing myself in English</h2>
-     <p>  I'm came from a normal family.<br>
+     <p>  I come from a normal family.<br>
     My parents are all commuters, which don't have sufficient computer knowledge. </p>
  <p>My cousin is an engineer,who often teach me how to use a computer.</p>
      <p>The more I learn computer knowledge, the more passion I have .</p>
