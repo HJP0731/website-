@@ -13,8 +13,12 @@
        <p>從此我開始自學網頁製作和程式編輯</p>
       <hr>
       <h2>Introducing my self in English</h2>
-     <p>  I'm came from a normal family.</p>
+     <p>  I'm came from a normal family.<br>
+    My parents are all commuters, which don't have sufficient computer knowledge. </p>
  <p>My cousin is an engineer,who often teach me how to use a computer.</p>
-     <p>He had been very close to me .</p>
+     <p>The more I learn computer knowledge, the more passion I have .</p>
+    <p>Hence, I wish I can be admited and enter <br>
+      the department of Information Engineering, National Taiwan University, <br>
+   improving myself and learning more about programing. </p>
     </body>
   </html>
